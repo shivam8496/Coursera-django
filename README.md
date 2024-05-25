@@ -1,2 +1,2 @@
 # Coursera-django
-This Repo is to Track my Django-tutorials journey
+This Repo is to Track my Django-tutorials Revison journey
